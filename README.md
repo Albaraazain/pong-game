@@ -1,6 +1,7 @@
 # Pong Game
 
-![Pong Game Screenshot](screenshot.png)
+![Pong Game Screenshot](![image](https://github.com/Albaraazain/pong-game/assets/65316209/26f9a8a5-38e2-4827-b878-c802c50b99d0)
+)
 
 A simple implementation of the classic Pong game using Pygame.
 
