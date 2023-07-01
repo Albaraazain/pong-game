@@ -1,7 +1,7 @@
 import pygame
 from pygame.locals import *
 
-# Initializing Pygame for our awesome Pong game!
+# Initializing Pygame
 pygame.init()
 
 # Setting up the game window dimensions
@@ -9,7 +9,7 @@ window_width, window_height = 800, 400
 window = pygame.display.set_mode((window_width, window_height))
 pygame.display.set_caption("Pong")  # name of the game
 
-# Defining some colors we'll be using
+# Defining the color white for later use
 WHITE = (255, 255, 255)
 
 # paddles dimensions and initial positions
@@ -84,3 +84,5 @@ while running:
 
 # Exiting the game
 pygame.quit()
+
+
